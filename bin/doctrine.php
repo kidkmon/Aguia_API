@@ -1,0 +1,1 @@
+/home/kidmendes/Downloads/api-aguia-sistema/vendor/doctrine/orm/bin/doctrine.php
